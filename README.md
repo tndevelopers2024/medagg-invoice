@@ -20,3 +20,4 @@ Frontend: http://localhost:8080
 ## Environment
 
 Create a `.env` file (not committed) with MongoDB + JWT settings.
+# medagg-invoice
