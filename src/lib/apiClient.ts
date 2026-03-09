@@ -13,7 +13,7 @@ export const clearAuthToken = () => {
 };
 
 const getApiBaseUrl = () => {
-  return import.meta.env.VITE_API_BASE_URL || "http://localhost:3001";
+  return import.meta.env.VITE_API_BASE_URL || "https://invoice.medagg.online";
 };
 
 export class ApiError extends Error {
